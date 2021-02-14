@@ -1,6 +1,7 @@
 // Edit your ics sources here
 ics_sources = [
     {url:'https://scoutbook.scouting.org/ics/125678.EDB5C.ics', title:'Troop 890 Girls Calendar', event_properties:{color: 'SeaGreen'}},
+	{url:'https://sogo.nomagic.uk/SOGo/dav/public/contact/Calendar/3D08-5CC47000-1-5EA59B00.ics', title: 'testing', event_properties:{color: 'SeaGreen'}},
     {url:'https://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics', title: 'US Holidays', event_properties: {color: 'DodgerBlue'}}
 ]
 
